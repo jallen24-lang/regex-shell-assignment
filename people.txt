@@ -1,0 +1,6 @@
+Lizzy:Johnson:25:Oregon
+Michael Smith 32 California
+Sarah:Williams:28:Washington
+Lizzy Brown 40 Texas
+David:Jones:35:Oregon
+
