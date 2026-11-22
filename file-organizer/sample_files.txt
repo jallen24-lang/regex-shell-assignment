@@ -1,0 +1,8 @@
+homework.docx
+vacation.jpg
+budget.xlsx
+music.mp3
+report.pdf
+family.png
+notes.txt
+video.mp4
